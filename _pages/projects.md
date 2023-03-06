@@ -5,7 +5,7 @@ permalink: /projects/
 description_in: 
 nav: true
 nav_order: 4
-display_categories: [Construction and Fabrication, Tangible User Interfaces, Perception, Nature, Building]
+display_categories: [Building, Construction and Fabrication, Tangible User Interfaces, Perception, Nature]
 horizontal: false
 portfolio_pdf: https://drive.google.com/file/d/1OCpiikf2sA-0GLklK0V92pk-qzd0EoSx/view?usp=share_link
 # portfolio_pdf: 2023_03 Portfolio_Jeremy Chen_144ppi.pdf

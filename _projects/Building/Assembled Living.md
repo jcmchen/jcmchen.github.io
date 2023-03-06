@@ -26,7 +26,7 @@ installed for the long-span area in this design.
 </div>
 
 <br/><br/>
-Drawings (24'X 36')
+Drawings (24"X 36")
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

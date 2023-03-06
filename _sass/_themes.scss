@@ -31,6 +31,9 @@
   .repo-img-dark {
     display: none;
   }
+  a.link2 {
+    color: black;
+  }
 }
 
 html[data-theme='dark'] {
@@ -44,7 +47,7 @@ html[data-theme='dark'] {
   --global-footer-text-color: #{$grey-color-dark};
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
-  --global-divider-color: #424246;
+  --global-divider-color: #737373; //#424246
   --global-card-bg-color: #{$grey-900};
 
   .fa-sun {
@@ -62,4 +65,8 @@ html[data-theme='dark'] {
   .repo-img-dark {
     display: block;
   }
+  a.link2{
+    color: white;
+  }
+  
 }

@@ -48,7 +48,7 @@ middle and the inner shape defines circulation.
 
 <br/>
 <br/>
-Plans (11' x 17')
+Plans (11" x 17")
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -87,7 +87,7 @@ Plans (11' x 17')
 
 <br/>
 <br/>
-Sections (24' x 18')
+Sections (24" x 18")
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
