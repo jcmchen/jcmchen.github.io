@@ -3,7 +3,7 @@ layout: page
 title: Capacitive Salad
 description: UC Berkeley 2022
 description_in: 2022/ UC Berkeley/ Instructor&#58; Chris Myers
-img: assets/img/Link/TUI/salad.png
+img: assets/img/Link/TUI/salad-ed.png
 importance: 4
 category: Tangible User Interfaces
 ---

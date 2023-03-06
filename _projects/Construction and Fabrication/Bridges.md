@@ -3,7 +3,7 @@ layout: page
 title: Bridges
 description: Civil Engineering Keystone 2017 <br> Civil Engineering Capstone 2018
 description_in: 2017/ Civil Engineering Keystone (Team of 13 people) <br> NTU Civil Engineering + USC Architecture joint workshop <br> Instructors&#58; Hervé Capart, Li-Huang Lu <br>Role&#58; group leader, collaborate on design and fabrication, collaborate on physical modeling, <br> &emsp; &emsp;  construction layout, structural design, 3D modeling, photography, presentation
-img: assets/img/Link02/CNV000021.jpg
+img: assets/img/Link02/CNV000021-ed.jpg
 importance: 1
 category: Construction and Fabrication
 ---

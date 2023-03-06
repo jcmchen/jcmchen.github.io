@@ -28,13 +28,13 @@ these two techniques.
 <div class="container">
   <div class="row row-cols-3">
     <div class="col">
-        {% include figure.html path="assets/img/Link02/DSC_3349.jpg" title="Fold & Cut" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Link02/DSC_3349-ed.jpg" title="Fold & Cut" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.html path="assets/img/Link02/DSC_3348.jpg" title="Fold & Cut" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Link02/DSC_3348-ed.jpg" title="Fold & Cut" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col">
-        {% include figure.html path="assets/img/Link02/DSC_3350.jpg" title="Fold & Cut" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Link02/DSC_3350-ed.jpg" title="Fold & Cut" class="img-fluid rounded z-depth-1" %}
     </div>
 
   </div>

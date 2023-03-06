@@ -24,13 +24,13 @@ household recycled materials to serve users a granola bar.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Link/TUI/GC00.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Link/TUI/GC00-ed.jpg"  class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Link/TUI/GC01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Link/TUI/GC01-ed.jpg"  class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Link/TUI/GC02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Link/TUI/GC02-ed.jpg"  class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

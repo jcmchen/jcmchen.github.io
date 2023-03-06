@@ -3,7 +3,7 @@ layout: page
 title: Interlace
 description: Fundamentals of Architectural Design 2018
 description_in: 2018/ Fundamentals of Architectural Design <br> Instructors&#58; Ying-Chieh Chan, Fu-Yuan Su
-img: assets/img/Link02/IMG_1259.jpg
+img: assets/img/Link02/IMG_1259-ed.jpg
 importance: 3
 category: Construction and Fabrication
 ---

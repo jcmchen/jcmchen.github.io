@@ -3,7 +3,7 @@ layout: page
 title: TangiGrowth
 description: UC Berkeley 2022
 description_in: 2022/ UC Berkeley/ Instructor&#58; Chris Myers
-img: assets/img/Link/TUI/Tangi05.jpg
+img: assets/img/Link/TUI/Tangi05-ed.jpg
 importance: 1
 category: Tangible User Interfaces
 ---
