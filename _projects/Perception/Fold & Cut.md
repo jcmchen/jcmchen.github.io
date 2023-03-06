@@ -3,7 +3,7 @@ layout: page
 title: Fold & Cut
 description: Shape Aesthetics and Design 2017
 description_in: 2017/ Shape Aesthetics and Design/ Instructor&#58; Ming-Chuan Fu
-img: assets/img/Link02/DSC_3370.jpg
+img: assets/img/Link02/DSC_3370-ed.jpg
 importance: 2
 category: Perception
 ---
