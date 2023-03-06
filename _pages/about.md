@@ -11,8 +11,8 @@ profile:
   address: >
     <p>Berkeley, CA, USA</p>
     <p>Taipei, Taiwan</p>
-    <br/><u><a href="https://www.linkedin.com/in/jeremy-chen-4b4356167/" style="color:black;">LinkedIn</a>
-    <br/><u><a href="https://medium.com/@jcmchen" style="color:black;">Medium</a>
+    <br/><p><u><a href="https://www.linkedin.com/in/jeremy-chen-4b4356167/" style="color:black;">LinkedIn</a></p>
+    <br/><p><u><a href="https://medium.com/@jcmchen" style="color:black;">Medium</a></p>
 
   
 
