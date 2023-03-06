@@ -5,8 +5,9 @@ layout: default
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">{{ page.title }}</h1>
-            <p class="post-description">{{ page.description }}</p>
+            <!-- <h1 class="post-title">{{ page.title }}{% if page.portfolio_pdf %}<a href="https://drive.google.com/file/d/1hmFJlpU1cgW-u7OgHg-3h-efQfYr91vF/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1> -->
+            <h1 class="post-title">{{ page.title }}{% if page.portfolio_pdf %}<a href="{{ page.portfolio_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
+            <p class="post-description_in">{{ page.description_in }}</p>
           </header>
 
           <article>

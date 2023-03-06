@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: Master of Architecture Student at <a href="https://ced.berkeley.edu/">UC Berkeley CED</a>. 
 
-
 profile:
   align: right
   image: prof_pic.jpg
@@ -12,22 +11,34 @@ profile:
   address: >
     <p>Berkeley, CA, USA</p>
     <p>Taipei, Taiwan</p>
+    <br/><u><a href="https://www.linkedin.com/in/jeremy-chen-4b4356167/" style="color:black;">LinkedIn</a>
+    <br/><u><a href="https://medium.com/@jcmchen" style="color:black;">Medium</a>
+
   
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
+<br/>
+<br/>
+<br/>
+Jeremy Chen 陳杰民
 
-I am passionate about exploring the
-intersection of technology and the natural world, and creating designs that promote
+As an engineering and architecture student, I am passionate about exploring the
+intersection of technology and the natural world and creating designs that promote
 sustainability, ecological awareness, social connection, and a deeper understanding
 of the world around us. At the same time, I'm deeply interested in human
 perceptions and sensations, and how we can create designs that engage all of our
-senses to create immersive, unforgettable experiences. My works include
-searching, questioning, and reconsidering the impact of technological progress on the built
+senses to create immersive, unforgettable experiences. My goal in design is to
+search, question, and reconsider the impact of technological progress on the built
 environment, exploring a more resilient and harmonious future for our living and
 nature.
+
+<br/><br/>
+
+jcmchen [at] berkeley [dot] edu 
+
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

@@ -11,7 +11,17 @@ layout: default
 
           <article>
             <div class="cv">
-              {% for entry in site.data.cv %}
+              <div class="row">
+                <div class="col-sm mt-3 mt-md-0">
+                    {% include figure.html path="assets/pdf/CV_2023_03_Jeremy Chen_1.png" class="img-fluid rounded z-depth-1" %}
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm mt-3 mt-md-0">
+                    {% include figure.html path="assets/pdf/CV_2023_03_Jeremy Chen_2.png" class="img-fluid rounded z-depth-1" %}
+                </div>
+              </div>
+              <!-- {% for entry in site.data.cv %}
                 <div class="card mt-3 p-3">
                   <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
                   <div>
@@ -29,7 +39,7 @@ layout: default
                   </div>
                 </div>
               {% endfor %}
-              </div>
+              </div> -->
           </article>
 
         </div>
