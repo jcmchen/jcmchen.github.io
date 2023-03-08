@@ -1,13 +1,22 @@
-<!-- ---
+---
 layout: page
-title: submenus changed
+title: projects
 nav: true
-nav_order: 6
+nav_order: 5
 dropdown: true
 children: 
-    - title: courses
-      permalink: /courses/
+    - title: building
+      permalink: /projects_building/
     - title: divider
-    - title: projects
-      permalink: /projects/
---- -->
+    - title: construction and fabtication
+      permalink: /projects_constuction/
+    - title: divider
+    - title: tangible user interfaces
+      permalink: /projects_tui/
+    - title: divider
+    - title: perception
+      permalink: /projects_perception/
+    - title: divider
+    - title: nature
+      permalink: /projects_nature/
+---
