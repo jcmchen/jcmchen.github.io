@@ -1,13 +1,13 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects_tui/
 description_in: 
 nav: false
 nav_order: 4
 display_categories: [Tangible User Interfaces]
 horizontal: false
-# portfolio_pdf: https://drive.google.com/file/d/1OCpiikf2sA-0GLklK0V92pk-qzd0EoSx/view?usp=share_link
+# portfolio_pdf: https://drive.google.com/file/d/1hmFJlpU1cgW-u7OgHg-3h-efQfYr91vF/view?usp=share_link
 # portfolio_pdf: 2023_03 Portfolio_Jeremy Chen_144ppi.pdf
 ---
 

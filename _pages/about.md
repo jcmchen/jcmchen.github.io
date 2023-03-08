@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Master of Architecture Student at <a href="https://ced.berkeley.edu/">UC Berkeley CED</a>. 
 
@@ -11,10 +11,12 @@ profile:
   address: >
     <p>Berkeley, CA, USA</p>
     <p>Taipei, Taiwan</p>
+ 
     <br/><a href="https://www.linkedin.com/in/jeremy-chen-4b4356167/" class="link2">LinkedIn</a>
     <br/><a href="https://medium.com/@jcmchen" class="link2" >Medium</a>
+   
+    
 
-  
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -38,6 +40,7 @@ nature.
 <br/><br/>
 
 jcmchen [at] berkeley [dot] edu 
+
 
 
 
