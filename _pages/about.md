@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Berkeley, CA, USA</p>
+    <p>Berkeley, CA, USA</p><br/>
     <p>Taipei, Taiwan</p>
  
     <br/><a href="https://www.linkedin.com/in/jeremy-chen-4b4356167/" class="link2">LinkedIn</a>
