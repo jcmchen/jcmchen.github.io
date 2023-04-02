@@ -22,7 +22,7 @@ architecture and engineering at the scale of material properties.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Link/Portfolio/p_Page_29-1.png" title="Form Force Matter" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Link/Portfolio/p_Page_29-ed.png" title="Form Force Matter" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
