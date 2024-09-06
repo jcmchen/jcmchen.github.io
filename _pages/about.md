@@ -27,15 +27,7 @@ social: false  # includes social icons at the bottom of the page
 <br/>
 Jeremy Chen 陳杰民
 
-As an engineering and architecture student, I am passionate about exploring the
-intersection of technology and the natural world and creating designs that promote
-sustainability, ecological awareness, social connection, and a deeper understanding
-of the world around us. At the same time, I'm deeply interested in human
-perceptions and sensations, and how we can create designs that engage all of our
-senses to create immersive, unforgettable experiences. My goal in design is to
-search, question, and reconsider the impact of technological progress on the built
-environment, exploring a more resilient and harmonious future for our living and
-nature.
+Jeremy Chen is a Master of Architecture candidate at UC Berkeley with Graduate Certificates in New Media, Applied Data Science, and Geospatial Information Science and Technology. He is passionate about integrating emerging technology and nature to create sustainable, ecologically aware designs. Jeremy is fascinated by how technological advances redefine our understanding of materiality as we fluidly navigate between digital and physical realms. He is dedicated to seamlessly coupling physical form with digital information and computation. With a keen interest in human perception, Jeremy aims to craft immersive experiences that engage all senses. Before joining UC Berkeley, Jeremy received his B.S. in Civil Engineering from National Taiwan University, specializing in architectural engineering, computer-aided engineering, and tectonics.
 
 <br/><br/>
 
